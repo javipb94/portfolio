@@ -1,0 +1,500 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<id>
+		http://www.bbc.com/mundo/temas/tecnologia/index.xml
+	</id>
+	<title>BBCMundo.com | Tecnología</title>
+	<updated>2016-06-07T10:02:01+00:00</updated>
+	<link rel="self" href="http://www.bbc.com/mundo/temas/tecnologia/index.xml"/>
+	<author>
+		<name>BBC Mundo</name>
+		<email>escribanos@bbc.co.uk</email>
+		<uri>http://www.bbcmundo.com</uri>
+	</author>
+	<generator>http://www.bbcmundo.com</generator>
+	<category xml:lang="es" term="mundo" label="mundo"/>
+	<category xml:lang="es" term="temas" label="Temas"/>
+	<logo>http://www.bbc.co.uk/mundo/images/gel/rss_logo.gif</logo>
+	<rights>
+		Derechos Reservados de la British Broadcasting Corporation (Corporación Británica de Radiodifusión)
+	</rights>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-03:/mundo/internacional/2016/06/160603_sociedad_corea_del_sur_miedo_ventiladores_causa_muerte_ps
+		</id>
+		<dc:identifier>
+			/mundo/internacional/2016/06/160603_sociedad_corea_del_sur_miedo_ventiladores_causa_muerte_ps
+		</dc:identifier>
+		<updated>2016-06-07T09:55:07+00:00</updated>
+		<published>2016-06-03T16:49:07+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="international" label="Internacional"/>
+		<title xml:lang="es">
+			Por qué algunos surcoreanos le tienen miedo a los ventiladores
+		</title>
+		<summary xml:lang="es">
+			La "asfixia por ventiladores" ha sido considerada como una de las principales causas de accidentes durante el verano en Corea del Sur. Pero, ¿qué tienen de peligrosos estos aparatos en el país asiático?
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/internacional/2016/06/160603_sociedad_corea_del_sur_miedo_ventiladores_causa_muerte_ps" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-06:/mundo/noticias/2016/06/160606_envase_perfecto_am
+		</id>
+		<dc:identifier>/mundo/noticias/2016/06/160606_envase_perfecto_am</dc:identifier>
+		<updated>2016-06-06T20:33:08+00:00</updated>
+		<published>2016-06-06T15:26:30+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El envase perfecto que mantiene frescas tus cebollas cortadas durante 2 semanas
+		</title>
+		<summary xml:lang="es">
+			La científica española Eva Almenar trabaja en Estados Unido en una facultad única en el mundo. Su misión es extender la vida de frutas y verduras rebanadas controlando cómo respiran.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160606_envase_perfecto_am" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-02:/mundo/noticias/2016/06/160602_404_ninos_perdidos_bdlp
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160602_404_ninos_perdidos_bdlp
+		</dc:identifier>
+		<updated>2016-06-06T10:21:08+00:00</updated>
+		<published>2016-06-02T10:47:52+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Cómo las páginas de "Error 404" pueden ayudar a buscar niños perdidos
+		</title>
+		<summary xml:lang="es">
+			Aprovechar un espacio vacío en internet. Con esa premisa, una ONG desarrolló un método que permite reemplazar el vínculo roto con fotos de menores desaparecidos y fomentar su búsqueda. Te contamos cómo funciona.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160602_404_ninos_perdidos_bdlp" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-02:/mundo/noticias/2016/06/160602_astrolabio_chaucer_gps_manual_instrucciones_finde_dv
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160602_astrolabio_chaucer_gps_manual_instrucciones_finde_dv
+		</dc:identifier>
+		<updated>2016-06-05T08:14:22+00:00</updated>
+		<published>2016-06-02T14:07:09+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El estrellado mundo del poeta Chaucer, creador del GPS medieval y del primer manual de instrucciones técnicas
+		</title>
+		<summary xml:lang="es">
+			El autor considerado el padre de la literatura inglesa y primer poeta enterrado en la Abadía de Westminster, no sólo escribió los Cuentos de Canterbury sino que inventó el astrolabio y dejó un manual para usarlo.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160602_astrolabio_chaucer_gps_manual_instrucciones_finde_dv" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-02:/mundo/noticias/2016/06/160602_tecnologia_concordski_supersonico_desastre_finde_egn
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160602_tecnologia_concordski_supersonico_desastre_finde_egn
+		</dc:identifier>
+		<updated>2016-06-05T07:52:49+00:00</updated>
+		<published>2016-06-02T15:25:41+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Tragedia del Concordski: cómo los soviéticos perdieron la carrera supersónica
+		</title>
+		<summary xml:lang="es">
+			Te contamos la dura competencia por dominar la aviación supersónica comercial entre Francia y la Unión Soviética en la década de los 70, con el Concorde y el Tupolev. Una carrera marcada por la muerte.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160602_tecnologia_concordski_supersonico_desastre_finde_egn" title="story">
+			<media:content>
+				<media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/06/02/160602162104_avion_supersonico_tupolev_concorde_144x81_getty_nocredit.jpg" width="144" height="81">
+					<img alt="" width="144" height="81" src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/06/02/160602162104_avion_supersonico_tupolev_concorde_144x81_getty_nocredit.jpg"/>
+				</media:thumbnail>
+			</media:content>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-01:/mundo/noticias/2016/06/160601_armas_nucleares_arsenal_nuclear_finde_dv
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160601_armas_nucleares_arsenal_nuclear_finde_dv
+		</dc:identifier>
+		<updated>2016-06-04T07:32:18+00:00</updated>
+		<published>2016-06-01T16:08:00+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Cuán destructivas son las armas nucleares del mundo
+		</title>
+		<summary xml:lang="es">
+			Sabemos cuán peligrosas son y se habla de deshacerse de ellas, pero una cosa es querer y otra poder: las armas nucleares están aquí para quedarse. ¿Cuántas y quién las tiene? ¿Cuántas vidas cobraría una ojiva en una ciudad?
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160601_armas_nucleares_arsenal_nuclear_finde_dv" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-31:/mundo/noticias/2016/06/160531_tecnologia_larga_vida_disquete_ch
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160531_tecnologia_larga_vida_disquete_ch
+		</dc:identifier>
+		<updated>2016-06-03T12:12:38+00:00</updated>
+		<published>2016-05-31T16:02:43+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Cómo el disquete ha logrado sobrevivir a las nuevas tecnologías
+		</title>
+		<summary xml:lang="es">
+			Se vaticinó su fin hace décadas. Sin embargo, el disquete ha logrado sobrevivir como forma de almacenamiento de datos de máquinas de industrias, centrales eléctricas y nucleares. ¿Por qué?
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160531_tecnologia_larga_vida_disquete_ch" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160526_tecnologia_disquetes_armas_nucleares_eeuu_yv" title="story">
+			<dc:title>
+				¿Por qué la fuerza nuclear de EE.UU. todavía usa disquetes?
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-06-01:/mundo/noticias/2016/06/160601_tecnologia_celular_solarin_seguridad_militar_famosos_lb
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160601_tecnologia_celular_solarin_seguridad_militar_famosos_lb
+		</dc:identifier>
+		<updated>2016-06-02T12:11:39+00:00</updated>
+		<published>2016-06-01T14:32:34+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El celular de US$16.000 que ofrece seguridad militar a los famosos
+		</title>
+		<summary xml:lang="es">
+			El nuevo celular de la startup londinense Sirin Labs se jacta de ser el mejor en lo que a seguridad se refiere: tiene un sistema de cifrado "nivel militar". La BBC fue al evento de presentación y habló con sus creadores.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160601_tecnologia_celular_solarin_seguridad_militar_famosos_lb" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2015/04/150401_tecnologia_efectividad_mecanismos_bloqueo_celulares_kv" title="story">
+			<dc:title>
+				¿Cómo saber si estás usando el mejor sistema de bloqueo para tu celular?
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-31:/mundo/noticias/2016/06/160531_tecnologia_ciencia_medio_ambiente_turbina_eolica_energia_limpia_india_arun_george_avant_garde_innovations_lb
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160531_tecnologia_ciencia_medio_ambiente_turbina_eolica_energia_limpia_india_arun_george_avant_garde_innovations_lb
+		</dc:identifier>
+		<updated>2016-06-01T16:46:59+00:00</updated>
+		<published>2016-05-31T14:15:51+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			La turbina eólica del tamaño de un ventilador que puede producir energía durante 20 años
+		</title>
+		<summary xml:lang="es">
+			Hay una iglesia en India que, desde hace meses, tiene un aspecto peculiar: junto a su torre hay un gran ventilador que es, en realidad, una turbina eólica. BBC Mundo habló con el creador de este proyecto de energía renovable.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160531_tecnologia_ciencia_medio_ambiente_turbina_eolica_energia_limpia_india_arun_george_avant_garde_innovations_lb" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160525_india_taj_majal_verde_contaminacion_insectos_ab" title="story">
+			<dc:title>Por qué el Taj Mahal se está poniendo verde</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-16:/mundo/noticias/2016/06/160513_internacional_tecnologia_tunel_san_gotardo_impresionantes_cifras_ms
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/06/160513_internacional_tecnologia_tunel_san_gotardo_impresionantes_cifras_ms
+		</dc:identifier>
+		<updated>2016-06-01T04:51:31+00:00</updated>
+		<published>2016-05-16T11:56:50+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Las increíbles cifras del túnel de San Gotardo, el más largo del mundo
+		</title>
+		<summary xml:lang="es">
+			Este miércoles se inaugura en Suiza una maravilla de la ingeniería: un túnel ferroviario de 57,1 km que "perfora" los Alpes y unirá el norte y sur de Europa de modo más veloz y eficiente. Aquí sus impresionantes números.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/06/160513_internacional_tecnologia_tunel_san_gotardo_impresionantes_cifras_ms" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/internacional/2016/06/160601_tuneles_largos_mundo_all" title="story">
+			<dc:title>Imágenes de los 7 túneles más largos del mundo</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-31:/mundo/noticias/2016/05/160531_tecnologia_made_in_taiwan_que_quiere_revolucionar_mercado_computex_tapei_asus_lb
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160531_tecnologia_made_in_taiwan_que_quiere_revolucionar_mercado_computex_tapei_asus_lb
+		</dc:identifier>
+		<updated>2016-05-31T16:42:32+00:00</updated>
+		<published>2016-05-31T09:09:40+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			3 inventos "Made in Taiwán" que quieren revolucionar el mercado tecnológico
+		</title>
+		<summary xml:lang="es">
+			Este martes dio comienzo en Taipéi la mayor feria de computación de Asia, Computex 2016. La compañía taiwanesa Asus presentó varios productos que esperan competir con Apple, Samsung o Microsfot. Te contamos cuáles son.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160531_tecnologia_made_in_taiwan_que_quiere_revolucionar_mercado_computex_tapei_asus_lb" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2015/11/151106_china_taiwan_rencuentro_xi_jinping_ma_ying_jeou_historia_aw" title="story">
+			<dc:title>
+				China vs. Taiwán: la disputa de más de 60 años que divide al país más grande de Asia
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-30:/mundo/noticias/2016/05/160530_tecnologia_ciencia_educacion_aplicaciones_iniciativas_espanol_ninos_juegos_lb
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160530_tecnologia_ciencia_educacion_aplicaciones_iniciativas_espanol_ninos_juegos_lb
+		</dc:identifier>
+		<updated>2016-05-31T09:52:07+00:00</updated>
+		<published>2016-05-30T14:52:38+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			4 iniciativas tecnológicas para que los niños jueguen con la ciencia
+		</title>
+		<summary xml:lang="es">
+			Cuando la ciencia converge con la tecnología puede convertise en un juego para niños y en una forma divertida de aprender. Te mostramos algunos proyectos (en español) que permiten a los más pequeños jugar con la ciencia.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160530_tecnologia_ciencia_educacion_aplicaciones_iniciativas_espanol_ninos_juegos_lb" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2015/06/150604_ciencia_naturaleza_evolucion_mutaciones_piedra_papel_tijera_aw" title="story">
+			<dc:title>
+				Los seres vivos que evolucionan jugando a "piedra, papel o tijera"
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-30:/mundo/noticias/2016/05/160530_tecnologia_batalla_legal_silicon_valley_peter_thiel_paypal_facebook_hulk_hogan_terry_bolea_gawker_lb
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160530_tecnologia_batalla_legal_silicon_valley_peter_thiel_paypal_facebook_hulk_hogan_terry_bolea_gawker_lb
+		</dc:identifier>
+		<updated>2016-05-30T14:47:25+00:00</updated>
+		<published>2016-05-30T09:33:34+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Por qué el multimillonario Peter Thiel, cofundador de Paypal, quiere destruir el portal de celebridades Gawker
+		</title>
+		<summary xml:lang="es">
+			La batalla legal entre Hulk Hogan y Gawker originó un debate sobre la libertad de prensa en la era digital y el poder de Silicon Valley desde que se supo que el cofundador de PayPal apoyó al exluchador con US$10 millones.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160530_tecnologia_batalla_legal_silicon_valley_peter_thiel_paypal_facebook_hulk_hogan_terry_bolea_gawker_lb" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/03/160318_hulk_hogan_gana_juicio_millonario_ps" title="story">
+			<dc:title>
+				Hulk Hogan recibirá US$115 millones de portal de celebridades Gawker por divulgación de video sexual
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-29:/mundo/noticias/2016/05/160529_tecnologia_refrigeracion_negocio_neveras_calentamiento_global_amv
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160529_tecnologia_refrigeracion_negocio_neveras_calentamiento_global_amv
+		</dc:identifier>
+		<updated>2016-05-30T10:33:45+00:00</updated>
+		<published>2016-05-29T15:17:32+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			Neveras que funcionan dos semanas sin electricidad y otros avances de las tecnologías del enfriamiento
+		</title>
+		<summary xml:lang="es">
+			El calentamiento global y el crecimiento económico han hecho que la demanda de frío vaya en aumento, por lo que varios científicos están trabajando para desarrollar nuevas tecnologías que sean limpias y, a la vez, eficientes.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160529_tecnologia_refrigeracion_negocio_neveras_calentamiento_global_amv" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-27:/mundo/noticias/2016/05/160527_tecnologia_nazis_rene_carmille_tarjetas_perforadas_finde
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160527_tecnologia_nazis_rene_carmille_tarjetas_perforadas_finde
+		</dc:identifier>
+		<updated>2016-05-29T07:10:19+00:00</updated>
+		<published>2016-05-27T12:08:00+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El héroe de la Resistencia que utilizó a IBM para timar a los nazis
+		</title>
+		<summary xml:lang="es">
+			El francés René Carmille logró salvar vidas de judíos durante la ocupación de los nazis en Francia en 1940 al sabotear la tecnología de la época: las tarjetas perforadas de IBM. ¿Fue el primer hackeo de la historia?
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160527_tecnologia_nazis_rene_carmille_tarjetas_perforadas_finde" title="story">
+			<media:content>
+				<media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/27/160527145512_rene_144x81_bbc_nocredit.jpg" width="144" height="81">
+					<img alt="" width="144" height="81" src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/27/160527145512_rene_144x81_bbc_nocredit.jpg"/>
+				</media:thumbnail>
+			</media:content>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-23:/mundo/noticias/2016/05/160523_primer_hacker_caballero_victoriano_marconi_fleming_maskelyne_finde_dv
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160523_primer_hacker_caballero_victoriano_marconi_fleming_maskelyne_finde_dv
+		</dc:identifier>
+		<updated>2016-05-28T14:00:57+00:00</updated>
+		<published>2016-05-23T14:53:36+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El mago que humilló a Marconi con un mensaje indiscreto
+		</title>
+		<summary xml:lang="es">
+			El inventor italiano Guillermo Marconi quiso acallar las dudas sobre la efectividad y seguridad del sistema inalámbrico que había creado, pero abrió las puertas a un fenómeno que nos sigue acompañando: la piratería.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160523_primer_hacker_caballero_victoriano_marconi_fleming_maskelyne_finde_dv" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-27:/mundo/noticias/2016/05/160527_china_autobus_gigante_am
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160527_china_autobus_gigante_am
+		</dc:identifier>
+		<updated>2016-05-27T12:22:44+00:00</updated>
+		<published>2016-05-27T10:14:31+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			TEB, el gigantesco autobús chino que se elevará por encima de los atascos
+		</title>
+		<summary xml:lang="es">
+			Viajará a dos metros de altura, llevará hasta 1.400 pasajeros y podrá avanzar por encima de filas de vehículos. Mira cómo es el superautobús que China espera construir este mismo año.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160527_china_autobus_gigante_am" title="story">
+			<media:content>
+				<media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/27/160527114847_auto_2_144x81_imagechinarexshutterstock_nocredit.jpg" width="144" height="81">
+					<img alt="Prototipo del nuevo Autobús de Tránsito Elevado presentado en China" width="144" height="81" src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/27/160527114847_auto_2_144x81_imagechinarexshutterstock_nocredit.jpg"/>
+				</media:thumbnail>
+			</media:content>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-26:/mundo/noticias/2016/05/160526_tecnologia_cultura_porcentaje_mujeres_comentarios_misoginos_twitter_dgm
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160526_tecnologia_cultura_porcentaje_mujeres_comentarios_misoginos_twitter_dgm
+		</dc:identifier>
+		<updated>2016-05-26T19:34:59+00:00</updated>
+		<published>2016-05-26T17:36:13+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			El sorprendente porcentaje de mujeres que escriben comentarios misóginos en Twitter
+		</title>
+		<summary xml:lang="es">
+			Entre los grandes problemas de las redes sociales están los abusos y los insultos. Las mujeres son uno de los grupos más afectados, pero muchos de los comentarios hirientes provienen precisamente de otras mujeres.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160526_tecnologia_cultura_porcentaje_mujeres_comentarios_misoginos_twitter_dgm" title="story">
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-26:/mundo/noticias/2016/05/160526_tecnologia_disquetes_armas_nucleares_eeuu_yv
+		</id>
+		<dc:identifier>
+			/mundo/noticias/2016/05/160526_tecnologia_disquetes_armas_nucleares_eeuu_yv
+		</dc:identifier>
+		<updated>2016-05-26T12:21:19+00:00</updated>
+		<published>2016-05-26T11:39:05+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="news" label="Noticias"/>
+		<title xml:lang="es">
+			¿Por qué la fuerza nuclear de EE.UU. todavía usa disquetes?
+		</title>
+		<summary xml:lang="es">
+			Un informe oficial indica que los sistemas que coordinan los misiles balísticos intercontinentales y los bombarderos nucleares operan con computadores de los años 70. Te contamos las razones.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/05/160526_tecnologia_disquetes_armas_nucleares_eeuu_yv" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2015/10/151002_tecnologia_noruega_usa_disquetes_floppy_disc_il" title="story">
+			<dc:title>
+				Por qué el sistema de salud de uno de los países ricos de Europa usa disquetes
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+	<entry>
+		<id>
+			tag:www.bbcmundo.com,2016-05-20:/mundo/especial/vert_fut/2016/05/160520_tecnologia_spitfires_supersonicos_yv
+		</id>
+		<dc:identifier>
+			/mundo/especial/vert_fut/2016/05/160520_tecnologia_spitfires_supersonicos_yv
+		</dc:identifier>
+		<updated>2016-05-26T10:54:06+00:00</updated>
+		<published>2016-05-20T16:49:11+00:00</published>
+		<category xml:lang="es" term="mundo" label="mundo"/>
+		<category xml:lang="es" term="verticals_future" label="Tendencias"/>
+		<title xml:lang="es">
+			Los temerarios pilotos de los aviones Spitfire que abrieron el camino a los vuelos supersónicos
+		</title>
+		<summary xml:lang="es">
+			Un grupo de pilotos de los célebres aviones de la Segunda Guerra Mundial desafió a la muerte lanzándose en picada a grandes velocidades. Fueron los primeros en romper la barrera del sonido.
+		</summary>
+		<link rel="alternate" type="text/html" href="http://www.bbc.com/mundo/especial/vert_fut/2016/05/160520_tecnologia_spitfires_supersonicos_yv" title="story">
+			<media:content/>
+		</link>
+		<link rel="related" type="text/html" href="http://www.bbc.com/mundo/noticias/2016/02/160212_vert_fut_horten_ho_229_avion_nazi_futurista_yv" title="story">
+			<dc:title>
+				Horten Ho 229: el increíble avión futurista diseñado por los nazis
+			</dc:title>
+			<media:content/>
+		</link>
+	</entry>
+</feed>
